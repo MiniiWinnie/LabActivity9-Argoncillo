@@ -4,8 +4,8 @@ Lab Activity 9 - Laravel vaccination dashboard for Barangay Matina Crossing Heal
 
 ## Seeded login
 
-- Email: `nurse.test@gmail.com`
-- Password: `lab9test`
+- Email: `nurse.argoncillo@bakuna.test`
+- Password: `bakuna2026`
 
 ## Run locally
 
